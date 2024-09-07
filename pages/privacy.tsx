@@ -23,7 +23,7 @@ export default function FourZeroFour() {
         <hr className="w-full h-px my-4 bg-gray-300 border-0 dark:bg-gray-700" />
       </div>
       <p>
-        Find all repositories <Link href="https://github.com/kavehtehrani"> here.</Link>
+        Find all repositories <Link href="https://github.com/chungquantin"> here.</Link>
       </p>
     </div>
   )

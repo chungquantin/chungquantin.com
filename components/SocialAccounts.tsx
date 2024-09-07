@@ -2,10 +2,6 @@ import { siteMetadata } from '~/data/siteMetadata'
 import GithubLogo from '~/icons/github.svg'
 import TwitterLogo from '~/icons/twitter.svg'
 import LinkedinLogo from '~/icons/linkedin.svg'
-import InstagramLogo from '~/icons/instagram.svg'
-import MediumLogo from '~/icons/medium.svg'
-import NomadlistLogo from '~/icons/nomadlist.svg'
-import FarcasterLogo from '~/icons/farcaster.svg'
 
 export default function SocialAccounts() {
   let logoClassName =
@@ -34,15 +30,6 @@ export default function SocialAccounts() {
           <LinkedinLogo className={logoClassName} />
         </a>
         <a
-          href={siteMetadata.farcaster}
-          target="_blank"
-          data-umami-event="contact-mastodon"
-          rel="noopener noreferrer"
-        >
-          <span className="sr-only">Farcaster</span>
-          <FarcasterLogo className={logoClassName} />
-        </a>
-        <a
           href={siteMetadata.twitter}
           target="_blank"
           data-umami-event="contact-twitter"
@@ -51,33 +38,6 @@ export default function SocialAccounts() {
           <span className="sr-only">Twitter</span>
           <TwitterLogo className={logoClassName} />
         </a>
-        <a
-          href={siteMetadata.instagram}
-          target="_blank"
-          data-umami-event="contact-instagram"
-          rel="noopener noreferrer"
-        >
-          <span className="sr-only">Instagram</span>
-          <InstagramLogo className={logoClassName} />
-        </a>
-        <a
-          href={siteMetadata.medium}
-          target="_blank"
-          data-umami-event="contact-medium"
-          rel="noopener noreferrer"
-        >
-          <span className="sr-only">Medium</span>
-          <MediumLogo className={logoClassName} />
-        </a>
-        {/*<a*/}
-        {/*  href={siteMetadata.nomadlist}*/}
-        {/*  target="_blank"*/}
-        {/*  data-umami-event="contact-nomadlist"*/}
-        {/*  rel="noopener noreferrer"*/}
-        {/*>*/}
-        {/*  <span className="sr-only">NomadList</span>*/}
-        {/*  <NomadlistLogo className={logoClassName} />*/}
-        {/*</a>*/}
       </div>
     </div>
   )

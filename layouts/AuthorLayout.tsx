@@ -22,7 +22,7 @@ export function AuthorLayout({ children }: AuthorLayoutProps) {
             <div className="md:pr-8 xl:col-span-2">
               <div
                 className={
-                  'text-orange-600 dark:text-amber-600 mb-8 bg-clip-text text-4xl ' +
+                  'text-primary-600 dark:text-primary-600 mb-8 bg-clip-text text-4xl ' +
                   'font-extrabold leading-[60px] tracking-tight md:text-5xl md:leading-[86px]'
                 }
               >

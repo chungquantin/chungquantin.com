@@ -56,7 +56,7 @@ module.exports = {
         sans: ['Outfit', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.orange,
+        primary: colors.amber,
         gray: colors.gray,
         dark: colors.stone['800'],
         code: {
