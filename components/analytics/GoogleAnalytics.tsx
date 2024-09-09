@@ -4,7 +4,7 @@ import { siteMetadata } from '~/data/siteMetadata'
 export function GAScript() {
   return (
     <>
-      <Script
+      {/* <Script
         strategy="lazyOnload"
         src={`https://www.googletagmanager.com/gtag/js?id=${siteMetadata.analytics.googleAnalyticsId}`}
       />
@@ -17,7 +17,7 @@ export function GAScript() {
               page_path: window.location.pathname,
             });
         `}
-      </Script>
+      </Script> */}
     </>
   )
 }

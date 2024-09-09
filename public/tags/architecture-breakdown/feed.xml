@@ -1,0 +1,23 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Archives of Tin Chung</title>
+      <link>https://kaveh.page//blog</link>
+      <description>Internet footprint of Tin Chung</description>
+      <language>en-us</language>
+      <managingEditor>cqtin0903@gmail.com (Kaveh)</managingEditor>
+      <webMaster>cqtin0903@gmail.com (Kaveh)</webMaster>
+      <lastBuildDate>Sun, 07 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://kaveh.page//tags/architecture-breakdown/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://kaveh.page//blog/break-down-the-sharded-network-design-of-polkadot</guid>
+    <title>Breakdown the sharded network design of Polkadot</title>
+    <link>https://kaveh.page//blog/break-down-the-sharded-network-design-of-polkadot</link>
+    <description>Discover deeper into how Polkadot is designed to be a fragmented network, or we can say a multi-chain, multi-sharded network as well.</description>
+    <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+    <category>polkadot</category><category>crypto</category><category>technical</category><category>architecture-breakdown</category>
+  </item>
+
+    </channel>
+  </rss>

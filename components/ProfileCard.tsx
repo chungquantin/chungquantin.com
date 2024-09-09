@@ -2,7 +2,6 @@ import Image from 'next/image'
 import { siteMetadata } from '~/data/siteMetadata'
 import GithubLogo from '~/icons/github.svg'
 import LinkedinLogo from '~/icons/linkedin.svg'
-import FarcasterLogo from '~/icons/farcaster.svg'
 
 export function ProfileCard() {
   let logoClassName =
@@ -61,17 +60,6 @@ export function ProfileCard() {
             >
               <span className="sr-only">Linkedin</span>
               <LinkedinLogo className={logoClassName} />
-            </a>
-          </div>
-          <div className="grid aspect-square items-center mx-auto border-2 rounded-br-md">
-            <a
-              href={siteMetadata.farcaster}
-              target="_blank"
-              data-umami-event="contact-mastodon"
-              rel="noopener noreferrer"
-            >
-              <span className="sr-only">Mastodon</span>
-              <FarcasterLogo className={logoClassName} />
             </a>
           </div>
         </div>
