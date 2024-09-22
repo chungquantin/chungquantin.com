@@ -2,72 +2,72 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Archives of Tin Chung</title>
-      <link>https://kaveh.page//blog</link>
+      <link>https://blog.chungquantin.com//blog</link>
       <description>Internet footprint of Tin Chung</description>
       <language>en-us</language>
       <managingEditor>cqtin0903@gmail.com (Kaveh)</managingEditor>
       <webMaster>cqtin0903@gmail.com (Kaveh)</webMaster>
-      <lastBuildDate>Sat, 31 Aug 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://kaveh.page//feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 22 Sep 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.chungquantin.com//feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://kaveh.page//blog/break-down-tanssi-network</guid>
+    <guid>https://blog.chungquantin.com//blog/hitchhiker-guide-to-upgrading-polkadot-sdk-based-codebases</guid>
+    <title>A Hitchhiker&#39;s Guide to Upgrading Polkadot SDK-based Codebases</title>
+    <link>https://blog.chungquantin.com//blog/hitchhiker-guide-to-upgrading-polkadot-sdk-based-codebases</link>
+    <description>This guide is designed to serve as a reference for Substrate engineers tasked with performing these complex upgrades</description>
+    <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
+    <category>polkadot</category><category>substrate</category><category>technical</category>
+  </item>
+
+  <item>
+    <guid>https://blog.chungquantin.com//blog/break-down-tanssi-network</guid>
     <title>Breakdown Tanssi Network Architecture</title>
-    <link>https://kaveh.page//blog/break-down-tanssi-network</link>
+    <link>https://blog.chungquantin.com//blog/break-down-tanssi-network</link>
     <description>breakdown post for the architecture of Tanssi as a parachain of the Polkadot protocol.</description>
     <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
     <category>polkadot</category><category>crypto</category><category>technical</category><category>architecture-breakdown</category>
   </item>
 
   <item>
-    <guid>https://kaveh.page//blog/break-down-the-sharded-network-design-of-polkadot</guid>
+    <guid>https://blog.chungquantin.com//blog/break-down-the-sharded-network-design-of-polkadot</guid>
     <title>Breakdown the sharded network design of Polkadot</title>
-    <link>https://kaveh.page//blog/break-down-the-sharded-network-design-of-polkadot</link>
+    <link>https://blog.chungquantin.com//blog/break-down-the-sharded-network-design-of-polkadot</link>
     <description>Discover deeper into how Polkadot is designed to be a fragmented network, or we can say a multi-chain, multi-sharded network as well.</description>
     <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
     <category>polkadot</category><category>crypto</category><category>technical</category><category>architecture-breakdown</category>
   </item>
 
   <item>
-    <guid>https://kaveh.page//blog/hitchhiker-guide-to-upgrading-polkadot-sdk-based-codebases</guid>
-    <title>A Hitchhiker&#39;s Guide to Upgrading Polkadot SDK-based Codebases</title>
-    <link>https://kaveh.page//blog/hitchhiker-guide-to-upgrading-polkadot-sdk-based-codebases</link>
-    <description>This guide is designed to serve as a reference for Substrate engineers tasked with performing these complex upgrades</description>
-    <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
-    <category>polkadot</category><category>substrate</category><category>technical</category>
-  </item>
-
-  <item>
-    <guid>https://kaveh.page//snippets/Fixing realtek drivers in linux</guid>
+    <guid>https://blog.chungquantin.com//snippets/Fixing realtek drivers in linux</guid>
     <title>Fixing Realtek drivers in Ubuntu</title>
-    <link>https://kaveh.page//snippets/Fixing realtek drivers in linux</link>
+    <link>https://blog.chungquantin.com//snippets/Fixing realtek drivers in linux</link>
     <description>Wifi drivers not working after going to sleep</description>
     <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
     <category>chrome</category><category>bash</category>
   </item>
 
   <item>
-    <guid>https://kaveh.page//snippets/chrome-extensions-source-code</guid>
+    <guid>https://blog.chungquantin.com//snippets/chrome-extensions-source-code</guid>
     <title>Obtaining source code for Chrome extensions</title>
-    <link>https://kaveh.page//snippets/chrome-extensions-source-code</link>
+    <link>https://blog.chungquantin.com//snippets/chrome-extensions-source-code</link>
     <description>Download source code for any Chrome extension without installation</description>
     <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
     <category>chrome</category><category>bash</category>
   </item>
 
   <item>
-    <guid>https://kaveh.page//snippets/conky</guid>
+    <guid>https://blog.chungquantin.com//snippets/conky</guid>
     <title>My Favorite Tool for Live Monitoring Linux</title>
-    <link>https://kaveh.page//snippets/conky</link>
+    <link>https://blog.chungquantin.com//snippets/conky</link>
     <description>A free and light-weight monitoring tool for linux</description>
     <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
     <category>linux</category><category>ubuntu</category>
   </item>
 
   <item>
-    <guid>https://kaveh.page//snippets/ubuntu-airpods</guid>
+    <guid>https://blog.chungquantin.com//snippets/ubuntu-airpods</guid>
     <title>Automatic Pairing of Airpods with Ubuntu</title>
-    <link>https://kaveh.page//snippets/ubuntu-airpods</link>
+    <link>https://blog.chungquantin.com//snippets/ubuntu-airpods</link>
     <description>Automatic Pairing of Airpods with Ubuntu</description>
     <pubDate>Sun, 18 Jun 2023 00:00:00 GMT</pubDate>
     <category>linux</category><category>ubuntu</category>

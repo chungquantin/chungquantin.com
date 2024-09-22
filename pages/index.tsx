@@ -9,7 +9,7 @@ export function getStaticProps() {
   let posts = getAllFilesFrontMatter('blog')
 
   // display tags from everywhere but only show blog posts on front page
-  let tags = getAllTags('blog', 'snippets')
+  let tags = getAllTags('blog')
 
   return { props: { posts, tags } }
 }
