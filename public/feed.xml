@@ -29,6 +29,15 @@
   </item>
 
   <item>
+    <guid>https://kaveh.page//blog/hitchhiker-guide-to-upgrading-polkadot-sdk-based-codebases</guid>
+    <title>A Hitchhiker&#39;s Guide to Upgrading Polkadot SDK-based Codebases</title>
+    <link>https://kaveh.page//blog/hitchhiker-guide-to-upgrading-polkadot-sdk-based-codebases</link>
+    <description>This guide is designed to serve as a reference for Substrate engineers tasked with performing these complex upgrades</description>
+    <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+    <category>polkadot</category><category>substrate</category><category>technical</category>
+  </item>
+
+  <item>
     <guid>https://kaveh.page//snippets/Fixing realtek drivers in linux</guid>
     <title>Fixing Realtek drivers in Ubuntu</title>
     <link>https://kaveh.page//snippets/Fixing realtek drivers in linux</link>
