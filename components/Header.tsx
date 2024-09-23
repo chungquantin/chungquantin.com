@@ -14,13 +14,13 @@ export function Header({ onToggleNav }: { onToggleNav: () => void }) {
     >
       <div className="mx-auto flex max-w-3xl items-center justify-between px-3 xl:max-w-5xl xl:px-0">
         <div className="flex items-center justify-center">
-          <Link href="/" aria-label="Archived Storage of Tin Chung">
+          <Link href="/" aria-label="Archive Storage of Tin Chung">
             <div className="flex items-center justify-between" data-umami-event="logo">
               <div className="mr-3 flex items-center justify-center">
                 <NextImage
                   key="logo"
                   src="/static/images/logo.jpg"
-                  alt="Archived Storage of Tin Chung"
+                  alt="Archive Storage of Tin Chung"
                   width={45}
                   height={45}
                   className="rounded-full"
@@ -29,7 +29,7 @@ export function Header({ onToggleNav }: { onToggleNav: () => void }) {
             </div>
           </Link>
           <div>
-            <p>Archived Storage of</p>
+            <p>Archive Storage of</p>
             <Link
               href="/about"
               className="text-primary-600 font-bold dark:text-primary-400 hover:underline"
