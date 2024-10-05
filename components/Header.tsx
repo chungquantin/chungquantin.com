@@ -31,7 +31,7 @@ export function Header({ onToggleNav }: { onToggleNav: () => void }) {
           <div>
             <p>Archive Storage of</p>
             <Link
-              href="/about"
+              href="https://blog.chungquantin.com"
               className="text-primary-600 font-bold dark:text-primary-400 hover:underline"
             >
               {' '}
